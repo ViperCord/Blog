@@ -1,27 +1,27 @@
 const siteMetadata = {
-  title: 'Vipercord Blog',
-  author: 'Vipercord Blog',
-  headerTitle: 'Vipercord Blog',
+  title: 'Viper Blog',
+  author: 'Viper Blog',
+  headerTitle: 'Viper Blog',
   description: 'Stay Up-To Date with our Latest News and Updates',
   language: 'en-us',
   theme: 'default',
   siteUrl: 'https://blog.vipercord.com',
-  siteRepo: 'https://github.com/vipercord/Blog',
+  siteRepo: 'https://github.com/ViperBotList/ViperBlog',
   siteLogo: '/static/images/logo.png',
   image: '/static/images/avatar.png',
   socialBanner: '',
   email: 'support@vipercord.com',
-  github: 'https://github.com/vipercord',
-  twitter: 'https://twitter.com/vipercord',
+  github: 'https://github.com/viperbotlist',
+  twitter: 'https://twitter.com/viperbotlist',
   facebook: 'https://facebook.com',
   youtube: 'https://youtube.com',
   linkedin: 'https://www.linkedin.com',
   locale: 'en-US',
   analytics: {
-    plausibleDataDomain: 'blog.vipercord.com', /** REQUIRED */
-    simpleAnalytics: false, /** REQUIRED */
-    umamiWebsiteId: '', /** NOT REQUIRED */
-    googleAnalyticsId: '' /** NOT REQUIRED */
+    plausibleDataDomain: 'blog.vipercord.com' /** REQUIRED */,
+    simpleAnalytics: false /** REQUIRED */,
+    umamiWebsiteId: '' /** NOT REQUIRED */,
+    googleAnalyticsId: '' /** NOT REQUIRED */,
   },
   newsletter: {
     provider: 'buttondown',
