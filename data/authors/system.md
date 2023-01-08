@@ -9,4 +9,4 @@ github: https://github.com/viperbotlist
 linkedin: https://vipercord.com
 ---
 
-Viper Bot List is the future of discord bot listing where smaller bots matter. Created and Founded on July 17th, 2022.
+Viper Bot List is the future of discord bot listing, where smaller bots matter. Created and Founded on July 17th, 2022.
