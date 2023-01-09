@@ -16,7 +16,7 @@ const ContentSecurityPolicy = `
 const securityHeaders = [
   {
     key: 'X-Powered-By',
-    value: 'Vipercord Development',
+    value: 'VBL Development',
   },
   {
     key: 'Content-Security-Policy',
