@@ -1,10 +1,16 @@
 const projectsData = [
   {
-    title: 'Popplio',
-    description: `The Infinity Bot List API (v6 and Legacy)`,
-    imgSrc: '/static/images/infinitybots.png',
-    href: 'https://docs.botlist.site',
-  }
+    title: 'Viper Bot List',
+    description: `The Viper Bot List is the future of discord bot listing, where smaller bots matter. Created and Founded on July 17th, 2022.`,
+    imgSrc: '/static/images/viperbots.png',
+    href: 'https://viperbotlist.com',
+  },
+  {
+    title: 'Viper API',
+    description: `The Viper API (v1 and v2)`,
+    imgSrc: '/static/images/viperapi.png',
+    href: 'https://api.viperbotlist.com',
+  },
 ]
 
 export default projectsData
